@@ -14,3 +14,4 @@ Note: Please ignore the first attampt in Safety Analytics Project May2019 (Predi
 
 # 5 Time Series Analysis and Forecasting using ARIMA class models
 # 6 Mall Customers Clustering Analysis
+# 7 Netflix Movie Recommender System
