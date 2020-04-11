@@ -18,3 +18,4 @@ Note: Please ignore the first attampt in Safety Analytics Project May2019 (Predi
 # 8 Credit Card Fraud Detection Using Heavily Imbalanced Dataset
 # 9 Named Entity Recognition Using Pre-trained BERT Model in pytorch frame work
 # 10 Breeds Image Classification Using pre-trained ResNet34 and ResNet50 models in fastai and pytorch frame work
+# Topic modeling using SVD and NMF
