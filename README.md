@@ -4,12 +4,12 @@
  3.  **Safety Analytics Project May2019**
      * Prediction of occupational accidents according to activity type using ensemble methods and optimization
 techniques.
-         *(Under the Guidance of Professor Jhareswar Maiti, Industrial and Systems Engineering Department, IIT Kharagpur)* 
+     *    *(Under the Guidance of Professor Jhareswar Maiti, Industrial and Systems Engineering Department, IIT Kharagpur)* 
   
   > Note: Please ignore the first attampt in Safety Analytics Project May2019 (Predicting the Activity Type of Accidents at Work using Ensemble methods and Optimization Techniques), kindly see the new attampt given below in the same notebook and detailed [SafetyAnalyticsProjectReport](https://drive.google.com/file/d/1RQBO4Hplya4abvD15xFdyBgqRTGHU2vJ/view?usp=sharing). 
 
  4. **Don't Call me turkey**
-    * Finding the turkey sound signature from pre-extracted audio features.
+      * Finding the turkey sound signature from pre-extracted audio features.
 
  5. **Time Series Analysis and Forecasting using ARIMA class models**
  6. **Mall Customers Clustering Analysis**
